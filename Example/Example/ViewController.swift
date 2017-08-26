@@ -1545,7 +1545,7 @@ class MultivaluedController: FormViewController {
     }
 }
 
-class MultivaluedOnlyRearderController: FormViewController {
+class MultivaluedOnlyReorderController: FormViewController {
     
     override func viewDidLoad() {
         super.viewDidLoad()
